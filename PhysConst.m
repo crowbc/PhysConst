@@ -29,8 +29,8 @@ classdef PhysConst
     properties(Constant)
         % g, acceleration due to gravity at earth's surface in Honolulu, HI
         % (m/s^2) (from Wolfram Alpha)
-        g = 9.78452;
-        % no standard uncertainty: exact value
+        g = 9.78888;
+        % standard uncertainty unknown
         gUnits = 'm/s^2';
         % G, Newtonian gravitational constant (N*m/kg^2) or (m^3/(kg*s^2))
         G = 6.67384e-11;
